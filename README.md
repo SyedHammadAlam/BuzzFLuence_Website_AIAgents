@@ -10,9 +10,7 @@ BuzzFluence helps service-based businesses and personal brands grow through digi
 
 ````
 ![BuzzFluence Website Preview](./buzzflence.png)
-
 ---
-
 ## ✨ Key Features
 
 * ⚛️ Built using **React.js** and **Tailwind CSS**
