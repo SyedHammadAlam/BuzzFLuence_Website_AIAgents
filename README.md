@@ -1,16 +1,13 @@
-# BuzzFluence Website (Frontend)
-
-This is the official frontend codebase for the **BuzzFluence** marketing agency website — a high-performance, responsive site built with **React.js** and **Tailwind CSS**, featuring real-time AI voice support via **[Vapi](https://vapi.ai)**.
-
-BuzzFluence helps service-based businesses and personal brands grow through digital strategy, automation, and content. This site reflects our modern, results-driven approach by combining clean design with conversational AI.
-
----
-
-## 🖼️ Live Preview
-
-````
 ![BuzzFluence Website Preview](./buzzflence.png)
+
 ---
+
+# 🚀 BuzzFluence Website — AI Voice-Enabled Frontend
+
+A responsive and modern marketing agency website for **BuzzFluence**, powered by React.js, Tailwind CSS, and AI voice technology via **Vapi** + **ElevenLabs**.
+
+---
+
 ## ✨ Key Features
 
 * ⚛️ Built using **React.js** and **Tailwind CSS**
@@ -36,6 +33,7 @@ BuzzFluence helps service-based businesses and personal brands grow through digi
 ## 📁 Project Structure
 
 ```
+
 buzzfluence-frontend/
 │
 ├── public/              # Static assets (images, favicon)
@@ -48,13 +46,14 @@ buzzfluence-frontend/
 ├── tailwind.config.js   # Tailwind configuration
 ├── .env.local           # Environment variables (excluded from Git)
 └── package.json         # Project dependencies & scripts
+
 ```
 
 ---
 
 ## 📬 Contact
 
-* 📧 Email: hammadalam37@gmail.com
+* 📧 Email: hammadalam37@gmail.com  
 * 🧠 Built by: BuzzFluence Digital Marketing Team
 
 ---
@@ -68,10 +67,6 @@ Licensed under the [MIT License](./LICENSE).
 ## 🛡️ Disclaimer
 
 This website integrates AI voice technology through Vapi. Voice inputs may be processed to enhance user interaction. See our [Privacy Policy](https://buzzfluence.com/privacy) for details.
-
 ```
 
 ---
-
-Let me know if you’d like me to convert this into a downloadable `.md` file or add dark/light theme badges.
-```
