@@ -9,7 +9,7 @@ BuzzFluence helps service-based businesses and personal brands grow through digi
 ## 🖼️ Live Preview
 
 ````
-![BuzzFluence Website Preview](./buzzfluence.png)
+![BuzzFluence Website Preview](./buzzflence.png)
 
 ---
 
